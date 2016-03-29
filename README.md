@@ -9,6 +9,7 @@ By using parameters.
 ```
 
   <any
+    data-animate-background-image
     data-animate-background-image-url="http://mycdn.com/my-animation-frame-${frame}.jpg"
     data-animate-background-image-frames="20"
     data-animate-background-image-speed="1000"
